@@ -1857,6 +1857,9 @@ function copyIndexFile () { //6/1/14 by DW
 						stNewObject (s3IndexFile, htmltext, "text/html", s3defaultAcl, function (error, data) {
 							});
 						}
+					else {
+						console.log ("error building index.html");
+					}
 					});
 				}
 			});
