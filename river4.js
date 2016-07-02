@@ -58,7 +58,8 @@ var s3IndexFile;
 
 var myPort = Number (process.env.PORT || 1337);
  
-var urlIndexSource = "http://fargo.io/code/river4/river4homepage.html";
+//var urlIndexSource = "http://fargo.io/code/river4/river4homepage.html";
+var urlIndexSource = "http://fargo.io/code/river4/serverhomepage.html";
 var urlDashboardSource = "http://fargo.io/code/river4/dashboard.html";
 var urlServerHomePageSource = "http://fargo.io/code/river4/serverhomepage.html"; //what you get when you go to / on the server
 var urlFavicon = "http://fargo.io/favicon.ico"; //7/19/15 by DW
