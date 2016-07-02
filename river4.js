@@ -61,7 +61,7 @@ var myPort = Number (process.env.PORT || 1337);
 //var urlIndexSource = "http://fargo.io/code/river4/river4homepage.html";
 var urlIndexSource = "http://fargo.io/code/river4/serverhomepage.html";
 var urlDashboardSource = "http://fargo.io/code/river4/dashboard.html";
-var urlServerHomePageSource = "http://fargo.io/code/river4/serverhomepage.html"; //what you get when you go to / on the server
+var urlServerHomePageSource = "https://firebasestorage.googleapis.com/v0/b/gilas-uat.appspot.com/o/index.html?alt=media&token=034db8d3-c2f2-499d-86ca-f4a2e92a3b93"; //what you get when you go to / on the server
 var urlFavicon = "http://fargo.io/favicon.ico"; //7/19/15 by DW
 
 var whenServerStart = new Date ();
