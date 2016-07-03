@@ -2,7 +2,7 @@
   "name": "river4",
   "subdomain": "river4",
   "description": "River of news aggregator that runs from Amazon S3.",
-  "author": "Dave Winer <dave@smallpicture.com>",
+  "author": "Dot Dot <amazingdot88@gmail.com>",
   "version": "0.0.79",
   "scripts": {
      "start": "node river4.js"

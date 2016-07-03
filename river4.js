@@ -2164,7 +2164,7 @@ function handleRequest (httpRequest, httpResponse) {
 					case "/favicon.ico": //7/19/15 by DW
 						httpResponse.writeHead (302, {"location": urlFavicon, "Content-Type": "text/plain"});
 						httpResponse.end ("302 REDIRECT");    
-						break;
+						break; 
 					default: //404 not found
 						httpResponse.writeHead (404, {"Content-Type": "text/plain", "Access-Control-Allow-Origin": "*"});
 						httpResponse.end ("\"" + lowerpath + "\" is not one of the endpoints defined by this server.");
