@@ -22,7 +22,7 @@ var myVersion = "0.122a", myProductName = "River4";
 	SOFTWARE.
 	
 	structured listing: http://scripting.com/listings/river4.html
-	*/
+	*/  
 
 var http = require ("http"); 
 var https = require ("https");
