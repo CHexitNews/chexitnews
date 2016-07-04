@@ -1,4 +1,4 @@
-var myVersion = "0.122a", myProductName = "River4"; 
+var myVersion = "0.122a", myProductName = "GilasNews.ph"; 
 
 /*  The MIT License (MIT)
 	Copyright (c) 2014-2015 Dave Winer
