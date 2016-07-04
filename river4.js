@@ -62,7 +62,7 @@ var myPort = Number (process.env.PORT || 1337);
 var urlIndexSource = "http://fargo.io/code/river4/serverhomepage.html";
 var urlDashboardSource = "http://fargo.io/code/river4/dashboard.html";
 var urlServerHomePageSource = "https://firebasestorage.googleapis.com/v0/b/gilas-uat.appspot.com/o/index.html?alt=media&token=034db8d3-c2f2-499d-86ca-f4a2e92a3b93"; //what you get when you go to / on the server
-var urlFavicon = "https://firebasestorage.googleapis.com/v0/b/gilas-uat.appspot.com/o/GilasNewsPH_LogoColored_1024x1024.png?alt=media&token=c01b9f2c-f13b-4c5a-95cb-3a4b7908ce9e"; //7/19/15 by DW
+var urlFavicon = "https://firebasestorage.googleapis.com/v0/b/gilas-uat.appspot.com/o/GilasNewsPH_Logo_1024x1024.png?alt=media&token=a8de350c-d41e-43d0-9f1a-72c770c4d9fd"; //7/19/15 by DW
 
 var whenServerStart = new Date ();
 var ct = 0, secsLastInit = 0;
