@@ -23,7 +23,7 @@ var myVersion = "0.122a", myProductName = "GilasNews.ph";
 	
 	structured listing: http://scripting.com/listings/river4.html
 	*/  
-
+  
 var http = require ("http"); 
 var https = require ("https");
 var AWS = require ("aws-sdk");
