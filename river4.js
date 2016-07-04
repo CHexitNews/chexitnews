@@ -1601,7 +1601,7 @@ function initList (name, callback) {
 			obj = parseJson (data.Body, infofilepath);
 			}
 		
-		//prefs
+		//prefs  
 			if (obj.prefs == undefined) {
 				obj.prefs = new Object ();
 				}
