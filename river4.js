@@ -74,7 +74,7 @@ var serverData = {
 		maxConsecutiveFeedErrors: 100,
 		maxThreads: 10,
 		ctReadsPerSecond: 2,
-		maxRiverItems: 100,
+		maxRiverItems: 1000,
 		maxBodyLength: 280,
 		flSkipDuplicateTitles: true,
 		flWriteItemsToFiles: false, //debugging -- 5/30/14 by DW
